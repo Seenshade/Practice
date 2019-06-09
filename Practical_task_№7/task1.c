@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 void incrementHeapVariable() {
 	int *p = (int*) malloc(sizeof(int));
 	*p = 10;
