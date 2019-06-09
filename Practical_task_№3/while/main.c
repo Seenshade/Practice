@@ -1,5 +1,5 @@
 #include "stdio.h"
-#include "do_while.h"
+#include "while.h"
 
 void main() {
 	_Bool menu = 1;
